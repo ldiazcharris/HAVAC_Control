@@ -1,4 +1,4 @@
-# HAVAC_Control
+# HVAC_Control
 
 The present work carries out the implementation of two classic control techniques: Linear and PI, which include the external temperature as a variable of the control loop. The control system designed here is applied to a mini-split type AC system, to verify the energy consumption when applying these control techniques.
 
